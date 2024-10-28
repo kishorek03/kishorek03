@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm [Kishore K]
 
-**Passionate Software Engineer | Full-Stack Developer | Open Source Contributor**
+**Passionate Software Engineer | Full-Stack Developer **
 
 ---
 
@@ -12,8 +12,8 @@ I'm a Software Development Engineer with a passion for creating efficient and in
 
 ### Currently Working On
 - Building a (Full Stack Project)
-- Contributing to open-source projects
 - Preparing for coding challenges on [LeetCode](https://leetcode.com/u/kishorek12/)
+- - Contributing to open-source projects
 
 ---
 
