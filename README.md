@@ -13,7 +13,7 @@ I'm a Software Development Engineer with a passion for creating efficient and in
 ### Currently Working On
 - Building a (Full Stack Project)
 - Preparing for coding challenges on [LeetCode](https://leetcode.com/u/kishorek12/)
-- - Contributing to open-source projects
+- Contributing to open-source projects
 
 ---
 
