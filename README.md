@@ -46,8 +46,7 @@ I'm a Software Development Engineer with a passion for creating efficient and in
 ### Fun Facts
 - 🧗 I love hiking and exploring nature
 - ![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-blue?logo=table-tennis&logoColor=white) I enjoy playing Table Tennis
-- ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)
-- ![Chess](https://img.shields.io/badge/-Chess-black?logo=chess&logoColor=white) I love the strategy in Chess
+- ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)![Chess](https://img.shields.io/badge/-Chess-black?logo=chess&logoColor=white) 
 
 
 ---
