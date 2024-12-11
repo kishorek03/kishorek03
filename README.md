@@ -1,13 +1,12 @@
 
 # Hi there! 👋 I'm [Kishore K]
 
-**Passionate Software Engineer | Full-Stack Developer **
+**Passionate Software Engineer | Java Full-Stack Developer**
 
 ---
 
 ### About Me
-I'm a Software Development Engineer with a passion for creating efficient and innovative tech solutions. I have a background in Electronics and Communication Engineering and Data Science, specializing in full-stack development, embedded systems, and networking.
-
+As a final year student having skillset in Java, Spring Boot, React.js, SQL, and AWS, focused on building scalable, cloud-based, and user-centric applications. Experienced in developing full-stack CRUD projects, creating RESTful APIs, and deploying end-to-end solutions using Docker and microservices architecture. Strong in problem-solving and Data Structures & Algorithms, with a knack for optimizing code and tackling complex challenges. Proficient in computer networking, including configuration and troubleshooting, and driven by a commitment to continuous learning and delivering impactful solutions.
 ---
 
 ### Currently Working On
@@ -48,7 +47,3 @@ I'm a Software Development Engineer with a passion for creating efficient and in
 - ![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-blue?logo=table-tennis&logoColor=white) I enjoy playing Table Tennis
 - ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)![Chess](https://img.shields.io/badge/-Chess-black?logo=chess&logoColor=white) 
 
-
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
