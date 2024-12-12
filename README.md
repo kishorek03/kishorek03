@@ -56,6 +56,7 @@ As a Final-year student skilled in Java Full stack. Focused on building scalable
 
 ### Fun Facts
 - 🧗 I love hiking and exploring nature
-- ![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-blue?logo=table-tennis&logoColor=white) I enjoy playing Table Tennis
-- ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)![Chess](https://img.shields.io/badge/-Chess-black?logo=chess&logoColor=white) 
+- ![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-blue?logo=table-tennis&logoColor=white) 
+- ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)
+- ![Chess](https://img.shields.io/badge/-Chess-red?logo=chess&logoColor=white) 
 
