@@ -1,18 +1,19 @@
 
 # Hi there! 👋 I'm [Kishore K]
 
-**Passionate Software Engineer | Java Full-Stack Developer**
+Passionate Software Engineer | Java Full-Stack Developer
 
 ---
 
 ### About Me
 As a final year student having skillset in Java, Spring Boot, React.js, SQL, and AWS, focused on building scalable, cloud-based, and user-centric applications. Experienced in developing full-stack CRUD projects, creating RESTful APIs, and deploying end-to-end solutions using Docker and microservices architecture. Strong in problem-solving and Data Structures & Algorithms, with a knack for optimizing code and tackling complex challenges. Proficient in computer networking, including configuration and troubleshooting, and driven by a commitment to continuous learning and delivering impactful solutions.
+
 ---
 
 ### Currently Working On
 - Building a (Full Stack Project)
 - Preparing for coding challenges on [LeetCode](https://leetcode.com/u/kishorek12/)
-- Contributing to open-source projects
+- Contributing to open-source projects 
 
 ---
 
