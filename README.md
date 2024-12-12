@@ -6,8 +6,9 @@ Passionate Software Engineer | Java Full-Stack Development...
 ---
 
 ### About Me
-As a final year student having skillset in Java, Spring Boot, React.js, SQL, and AWS, focused on building scalable, cloud-based, and user-centric applications. Experienced in developing full-stack CRUD projects, creating RESTful APIs, and deploying end-to-end solutions using Docker and microservices architecture. Strong in problem-solving and Data Structures & Algorithms, with a knack for optimizing code and tackling complex challenges. Proficient in computer networking, including configuration and troubleshooting, and driven by a commitment to continuous learning and delivering impactful solutions.
+As a Final-year student skilled in Java Full stack. Focused on building scalable, cloud-based applications with experience in full-stack CRUD projects, RESTful APIs, and microservices. Strong in problem-solving, DSA, and optimizing code while continuously learning and delivering impactful solutions.
 
+ 
 ---
 
 ### Currently Working On
