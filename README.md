@@ -34,22 +34,22 @@ As a Final-year student skilled in Java Full stack. Focused on building scalable
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-
 <br />
 
 
 ---
 
+
 ### Learning
 - Advanced Data Structures and Algorithms
+- Backend development in Spring boot
 - Web development tools in the React ecosystem
-- Backend Spring boot
-- Improving my coding skills on [LeetCode](https://leetcode.com/u/kishorek12/)
 
 ---
 
 ### Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorek2003/)
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kishorekarthik2003@gmail.com)
 
 ---
