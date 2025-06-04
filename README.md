@@ -16,7 +16,7 @@
 ---
 
 ### 🎯 About Me
-```diff
+``
 + Passionate developer crafting robust full-stack solutions with Java ecosystem
 + Cloud-native application enthusiast with AWS/Docker experience
 + 200+ DSA problems solved with focus on optimized algorithms
