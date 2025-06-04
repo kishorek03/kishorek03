@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Kishore K]
+
 
 
 <p align="center">
@@ -8,7 +8,9 @@
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kishore-portfolio-steel.vercel.app/)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorek2003/)
+  
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishorek12/)
   
 </div>
@@ -16,7 +18,6 @@
 ---
 
 ### 🎯 About Me
-``
 + Passionate developer crafting robust full-stack solutions with Java ecosystem
 + Cloud-native application enthusiast with AWS/Docker experience
 + 200+ DSA problems solved with focus on optimized algorithms
@@ -50,16 +51,14 @@
 
 ---
 
-### Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorek2003/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kishorekarthik2003@gmail.com)
-
----
-
 ### Fun Facts
 - 🧗 I love hiking and exploring nature
 - ![Table Tennis](https://img.shields.io/badge/-Table%20Tennis-blue?logo=table-tennis&logoColor=white) 
 - ![Football](https://img.shields.io/badge/-Football-green?logo=football&logoColor=white)
-- ![Chess](https://img.shields.io/badge/-Chess-red?logo=chess&logoColor=white) 
+- ![Chess](https://img.shields.io/badge/-Chess-red?logo=chess&logoColor=white)
+
+
+  Fun Zone
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6&no-frame=true" alt="Trophies" /> </p><table align="center"> <tr> <td align="center"> <img src="https://media.giphy.com/media/l0HU7JI1uOl7vIni8/giphy.gif" width="100" alt="Table Tennis"/> </td> <td align="center"> <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width="100" alt="Chess"/> </td> <td align="center"> <img src="https://media.giphy.com/media/fV5ofzZgK1Y6QpJY8G/giphy.gif" width="100" alt="Hiking"/> </td> </tr> <tr> <td align="center">🏓 TT Player</td> <td align="center">♟️ Chess Tactician</td> <td align="center">🏔️ Mountain Explorer</td> </tr> </table>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </p> ```
 
