@@ -1,22 +1,25 @@
 # Hi there! 👋 I'm [Kishore K]
 
 
-Passionate Software Engineer | Java Full-Stack Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Kishore+K;Java+Full-Stack+Developer;Spring+Boot+%7C+React+%7C+AWS;Problem+Solver+%7C+Open-Source+Enthusiast" alt="Typing animation" />
+</p>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kishore-portfolio-steel.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorek2003/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishorek12/)
+  
+</div>
 
 ---
 
-### About Me
-As a Final-year student skilled in Java Full stack. Focused on building scalable, cloud-based applications with experience in full-stack CRUD projects, RESTful APIs, and microservices. Strong in problem-solving, DSA, and optimizing code while continuously learning and delivering impactful solutions.
-
- 
----
-
-### Currently Working On
-- Building a (Full Stack Project)
-- Preparing for coding challenges on [LeetCode](https://leetcode.com/u/kishorek12/)
-- Contributing to open-source projects 
-
----
+### 🎯 About Me
+```diff
++ Passionate developer crafting robust full-stack solutions with Java ecosystem
++ Cloud-native application enthusiast with AWS/Docker experience
++ 200+ DSA problems solved with focus on optimized algorithms
 
 ### Languages and Tools:
 
